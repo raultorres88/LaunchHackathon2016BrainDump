@@ -1,0 +1,58 @@
+
+{
+  "title": "Testing Stuff!",
+  "remote": "../Resources/5min.mp3",
+  "data": [{
+    "timeline": {
+      "start": 1,
+      "title": "@uz88",
+      "target": "timeline",
+      "text": "CoolStoryBro",
+      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 10,
+      "title": "@2",
+      "target": "timeline",
+      "text": "this is some interesting text that goes inside11111",
+      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 3,
+      "title": "This is a title",
+      "target": "timeline",
+      "text": "this is some interesting text that goes inside11111",
+      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 100,
+      "title": "@4",
+      "target": "timeline",
+      "text": "this is some interesting text that goes inside11111",
+      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 150,
+      "title": "@5",
+      "target": "timeline",
+      "text": "this is some interesting text that goes inside11111",
+      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
+      "direction": "up"
+    }
+  }, {
+    "footnote": {
+      "start": "0.23530116023787565",
+      "end": "2.0193976413772767",
+      "target": "footnote-container",
+      "text": "I invented JSON"
+    }
+  }, ]
+}
