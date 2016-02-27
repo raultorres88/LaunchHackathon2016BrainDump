@@ -13,6 +13,14 @@
         "innerHtml" : "aaaa",
         "direction" : "up"
       }
-    }
+    },
+    {
+      "footnote": {
+        "start":"0.23530116023787565",
+        "end":"2.0193976413772767",
+        "target":"footnote-container",
+        "text":"I invented JSON"
+      }
+    },
   ]
 }
