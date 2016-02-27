@@ -8,7 +8,7 @@
         "start":5,
         "target":"timeline-container",
         "title" : "@uz88",
-        "text":"OMG",
+        "text":"5 seconds",
         "innerHTML" : "That was cool",
         "direction" : "up"
       }
@@ -18,7 +18,7 @@
         "start":10,
         "target":"timeline-container",
         "title" : "@User1",
-        "text":"Did that Happen!?",
+        "text":"10 seconds!?",
         "innerHTML" : "Cool",
         "direction" : "up"
       }
@@ -28,7 +28,7 @@
         "start":15,
         "target":"timeline-container",
         "title" : "@uz88",
-        "text":"Oh No!!!",
+        "text":"15 seconds",
         "innerHTML" : "Ahhhh!!",
         "direction" : "up"
       }
@@ -38,7 +38,7 @@
         "start":2,
         "target":"timeline-container",
         "title" : "asdf",
-        "text":"I wrote JSLint",
+        "text":"two seconds",
         "innerHTML" : "aaaa",
         "direction" : "up"
       }
