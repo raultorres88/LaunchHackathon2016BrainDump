@@ -1,6 +1,7 @@
+
 {
-  "title": "Testing Stuff!",
-  "remote": "../Resources/5min.mp3",
+  "title":"Crockford Lives!",
+  "remote":"http://dl.dropbox.com/u/3531958/crockford.ogv",
   "data": [
     {
       "timeline": {
@@ -12,49 +13,6 @@
         "innerHtml" : "aaaa",
         "direction" : "up"
       }
-    }, {
-      "timeline": {
-        "start":22.145542172351516,
-        "end":44.145542172351513,
-        "target":"timeline-container",
-        "title" : "asdf",
-        "text":"I wrote JSLint",
-        "innerHtml" : "aaaa",
-        "direction" : "up"
-      }
-    }, {
-    "timeline": {
-      "start": 3,
-      "title": "This is a title",
-      "target": "timeline",
-      "text": "this is some interesting text that goes inside11111",
-      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "up"
     }
-  }, {
-    "timeline": {
-      "start": 100,
-      "title": "@4",
-      "target": "timeline",
-      "text": "this is some interesting text that goes inside11111",
-      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "up"
-    }
-  }, {
-    "timeline": {
-      "start": 150,
-      "title": "@5",
-      "target": "timeline",
-      "text": "this is some interesting text that goes inside11111",
-      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "up"
-    }
-  }, {
-    "footnote": {
-      "start": "0.23530116023787565",
-      "end": "2.0193976413772767",
-      "target": "footnote-container",
-      "text": "I invented JSON"
-    }
-  }, ]
+  ]
 }
