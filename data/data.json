@@ -1,5 +1,6 @@
 {
   "title": "Testing Stuff!",
+  "target" : "timeline"
   "remote": "../Resources/5min.mp3",
   "data": [{
     "timeline": {
