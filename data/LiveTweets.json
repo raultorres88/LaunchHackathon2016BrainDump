@@ -9,7 +9,7 @@
         "target":"timeline-container",
         "title" : "@uz88",
         "text":"OMG",
-        "innerHtml" : "That was cool",
+        "innerHTML" : "That was cool",
         "direction" : "up"
       }
     },
@@ -19,7 +19,7 @@
         "target":"timeline-container",
         "title" : "@User1",
         "text":"Did that Happen!?",
-        "innerHtml" : "Cool",
+        "innerHTML" : "Cool",
         "direction" : "up"
       }
     },
@@ -29,7 +29,7 @@
         "target":"timeline-container",
         "title" : "@uz88",
         "text":"Oh No!!!",
-        "innerHtml" : "Ahhhh!!",
+        "innerHTML" : "Ahhhh!!",
         "direction" : "up"
       }
     },
@@ -40,7 +40,7 @@
         "target":"timeline-container",
         "title" : "asdf",
         "text":"I wrote JSLint",
-        "innerHtml" : "aaaa",
+        "innerHTML" : "aaaa",
         "direction" : "up"
       }
     }
