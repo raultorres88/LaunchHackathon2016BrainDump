@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Popcorn 1.0 JSON parser Plug-in Demo</title>
+
+    <script src="js/popcorn-complete00.js"></script>
+
+  </head>
+  <body>
+    <h1 id="qunit-header">Popcorn 1.0 JSON parser Plug-in Demo</h1>
+    <p></p>
+    <div>
+      <video id="video" data-timeline-sources="http://raw.githubusercontent.com/raultorres88/LaunchHackathon2016BrainDump/master/data/popcorndata.json"
+        controls
+        width= "250px"
+        poster="../../test/poster.png">
+
+        <source id="ogv"
+          src="http://popcornjs.org/code/test/trailer.ogv"
+          type='video/ogg; codecs="theora, vorbis"'>
+
+        <p>Your user agent does not support the HTML5 Video element.</p>
+
+      </video>
+    </div>
+
+    <style>
+      .displays {
+        width: 300px;
+        height: 200px;
+        float: left;
+      }
+    </style>
+    <div class="displays" id="timeline-container"></div>
+    <div class="displays" id="iframe-container"></div>
+    <div class="displays" id="map-container"></div>
+    <div class="displays" id="footnote-container"></div>
+
+  </body>
+</html>
