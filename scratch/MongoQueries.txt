@@ -1,0 +1,22 @@
+WalkingDead_AMC
+
+db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC'})
+    .sort({"created_at_Date":-1})
+    .limit(10)
+    .skip(10)
+
+db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC'})
+
+WalkingDead_AMC
+
+  db.smalltweets.aggregate(
+     [
+       {
+         $group:
+           {
+             _id: "$twitterScreenName",
+             minQuantity: { $min: "$created_at_Date" }
+           }
+       }
+     ]
+  )
