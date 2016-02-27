@@ -12,7 +12,7 @@
     }
   }, {
     "timeline": {
-      "start": "10`",
+      "start": "10",
       "title": "@2",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
@@ -21,7 +21,7 @@
     }
   }, {
     "timeline": {
-      "start": "@3",
+      "start": "3",
       "title": "This is a title",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
