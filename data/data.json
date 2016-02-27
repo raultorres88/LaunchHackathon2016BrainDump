@@ -8,7 +8,7 @@
       "target" : "timeline",
       "text": "CoolStoryBro",
       "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "down"
+      "direction": "up"
     }
   }, {
     "timeline": {
@@ -17,7 +17,7 @@
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
       "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "down"
+      "direction": "up"
     }
   }, {
     "timeline": {
@@ -26,7 +26,7 @@
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
       "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "down"
+      "direction": "up"
     }
   }, {
     "timeline": {
@@ -35,7 +35,7 @@
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
       "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "down"
+      "direction": "up"
     }
   }, {
     "timeline": {
@@ -44,7 +44,7 @@
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
       "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "down"
+      "direction": "up"
     }
   }]
 }
