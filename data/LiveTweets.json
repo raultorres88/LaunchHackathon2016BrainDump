@@ -2,41 +2,40 @@
   "title": "Silent Track",
   "remote": "./Resources/5min.mp3",
   "data": [{
-      "timeline": {
-        "start": 2,
-        "target": "timeline-container",
-        "title": "asdf",
-        "text": "two seconds",
-        "innerHTML": "aaaa",
-        "direction": "up"
-      }
-    }, {
-      "timeline": {
-        "start": 5,
-        "target": "timeline-container",
-        "title": "@uz88",
-        "text": "5 seconds",
-        "innerHTML": "That was cool",
-        "direction": "up"
-      }
-    }, {
-      "timeline": {
-        "start": 10,
-        "target": "timeline-container",
-        "title": "@User1",
-        "text": "10 seconds!?",
-        "innerHTML": "Cool",
-        "direction": "up"
-      }
-    }, {
-      "timeline": {
-        "start": 15,
-        "target": "timeline-container",
-        "title": "@uz88",
-        "text": "15 seconds",
-        "innerHTML": "Ahhhh!!",
-        "direction": "up"
-      }
+    "timeline": {
+      "start": 2,
+      "target": "timeline-container",
+      "title": "asdf",
+      "text": "two seconds",
+      "innerHTML": "aaaa",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 5,
+      "target": "timeline-container",
+      "title": "@uz88",
+      "text": "5 seconds",
+      "innerHTML": "That was cool",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 10,
+      "target": "timeline-container",
+      "title": "@User1",
+      "text": "10 seconds!?",
+      "innerHTML": "Cool",
+      "direction": "up"
+    }
+  }, {
+    "timeline": {
+      "start": 15,
+      "target": "timeline-container",
+      "title": "@uz88",
+      "text": "15 seconds",
+      "innerHTML": "Ahhhh!!",
+      "direction": "up"
     }
   }]
 }
