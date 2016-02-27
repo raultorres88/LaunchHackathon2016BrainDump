@@ -1,5 +1,13 @@
 WalkingDead_AMC
 
+-- time window
+
+db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC', created_at_Date: {
+  $gte: ISODate("2016-02-26T22:20:56.000Z"),
+  $lt:  ISODate("2016-02-26T23:26:56.000Z")}})
+
+-- paging and selecting
+
 db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC'})
     .sort({"created_at_Date":-1})
     .limit(10)
@@ -8,6 +16,8 @@ db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC'})
 db.smalltweets.find({ twitterScreenName: 'WalkingDead_AMC'})
 
 WalkingDead_AMC
+
+---- earliest date
 
   db.smalltweets.aggregate(
      [
@@ -20,3 +30,16 @@ WalkingDead_AMC
        }
      ]
   )
+
+---- min id --
+db.smalltweets.aggregate(
+   [
+     {
+       $group:
+         {
+           _id: "$twitterScreenName",
+           minQuantity: { $min: "$id_str" }
+         }
+     }
+   ]
+)
