@@ -1,25 +1,28 @@
 {
   "title": "Testing Stuff!",
   "remote": "../Resources/5min.mp3",
-  "data": [{
-    "timeline": {
-      "start": 1,
-      "title": "@uz88",
-      "target": "timeline",
-      "text": "CoolStoryBro",
-      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "up"
-    }
-  }, {
-    "timeline": {
-      "start": 10,
-      "title": "@2",
-      "target": "timeline",
-      "text": "this is some interesting text that goes inside11111",
-      "innerHTML": "Click here for <a href='http://www.google.ca'>Google</a>",
-      "direction": "up"
-    }
-  }, {
+  "data": [
+    {
+      "timeline": {
+        "start":2.145542172351516,
+        "end":10.145542172351513,
+        "target":"timeline-container",
+        "title" : "asdf",
+        "text":"I wrote JSLint",
+        "innerHtml" : "aaaa",
+        "direction" : "up"
+      }
+    }, {
+      "timeline": {
+        "start":22.145542172351516,
+        "end":44.145542172351513,
+        "target":"timeline-container",
+        "title" : "asdf",
+        "text":"I wrote JSLint",
+        "innerHtml" : "aaaa",
+        "direction" : "up"
+      }
+    }, {
     "timeline": {
       "start": 3,
       "title": "This is a title",
