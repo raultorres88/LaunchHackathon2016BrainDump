@@ -45,6 +45,17 @@
         "target":"footnote-container",
         "text":"I wrote JSLint"
       }
+    },
+    {
+      "timeline": {
+        "start":2.145542172351516,
+        "end":10.145542172351513,
+        "target":"timeline-container",
+        "title" : "asdf",
+        "text":"I wrote JSLint",
+        "innerHtml" : "aaaa",
+        "direction" : "up"
+      }
     }
   ]
 }
