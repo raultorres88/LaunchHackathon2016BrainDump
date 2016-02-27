@@ -3,7 +3,7 @@
   "remote": "../Resources/5min.mp3",
   "data": [{
     "timeline": {
-      "start": "1",
+      "start": 1,
       "title": "@uz88",
       "target" : "timeline",
       "text": "CoolStoryBro",
@@ -12,7 +12,7 @@
     }
   }, {
     "timeline": {
-      "start": "10",
+      "start": 10,
       "title": "@2",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
@@ -21,7 +21,7 @@
     }
   }, {
     "timeline": {
-      "start": "3",
+      "start": 3,
       "title": "This is a title",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
@@ -30,7 +30,7 @@
     }
   }, {
     "timeline": {
-      "start": "100",
+      "start": 100,
       "title": "@4",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
@@ -39,7 +39,7 @@
     }
   }, {
     "timeline": {
-      "start": "150",
+      "start": 150,
       "title": "@5",
       "target" : "timeline",
       "text": "this is some interesting text that goes inside11111",
