@@ -35,7 +35,7 @@
     },
     {
       "timeline": {
-        "start":2.145542172351516,
+        "start":2,
         "target":"timeline-container",
         "title" : "asdf",
         "text":"I wrote JSLint",
