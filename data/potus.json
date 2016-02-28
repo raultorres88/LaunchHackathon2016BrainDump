@@ -1,0 +1,106 @@
+{
+  "title": "Silent Track",
+  "remote": "./Resources/5min.mp3",
+  "data": [
+    {
+      "timeline": {
+        "start": 0,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"Mr. Speaker, Mr. Vice President, Members of Congress, my fellow Americans.\"\n\nWatch President Obama's final #SOTU → https://t.co/7ZgBUWI9cz",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 21,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"Tonight marks the eighth year I’ve come here to report on the State of the Union.\" —@POTUS #SOTU https://t.co/ewrcxEsQvA",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 85,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"I hope we can work together this year on bipartisan priorities like criminal justice reform.\" —@POTUS to @SpeakerRyan #SOTU",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 104,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"Tonight, I want to go easy on the traditional list of proposals for the year ahead.\" —@POTUS: https://t.co/7ZgBUWI9cz #SOTU",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 130,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"Protecting our kids from gun violence.\nEqual pay for equal work.\nPaid leave.\nRaising the minimum wage.\" —@POTUS on what he's fighting for",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 168,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"They are still the right thing to do, and I will not let up until they get done.\" —@POTUS #SOTU https://t.co/CA3ziMtwjv",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 177,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "“I don’t want to talk just about the next year. I want to focus on the next 5 years, 10 years, and beyond.” —@POTUS #SOTU",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 203,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "“I want to focus on our future.\" —@POTUS: https://t.co/7ZgBUWI9cz #SOTU https://t.co/KtqpN6KlOU",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 266,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "\"We did not, in the words of Lincoln, adhere to the 'dogmas of the quiet past.' Instead we thought anew, and acted anew\" —@POTUS #SOTU",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    },
+    {
+      "timeline": {
+        "start": 348,
+        "target": "timeline-container",
+        "title": "WhiteHouse",
+        "text": "“It’s in that spirit that we have made the progress of these past 7 years.” —@POTUS on the American spirit #SOTU https://t.co/tx4HquIsI4",
+        "innerHtml": "",
+        "direction": "up"
+      }
+    }
+  ]
+}
